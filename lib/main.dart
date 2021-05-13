@@ -18,7 +18,7 @@ class _IdcardState extends State<Idcard> {
       backgroundColor: Colors.grey[900],
       appBar: AppBar(
         title: Text(
-          "ID Card"
+          "ID CARD"
         ),
         centerTitle: true,
         backgroundColor: Colors.grey[850],
